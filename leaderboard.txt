@@ -1,0 +1,1 @@
+{"nabin": 1, "ashim": 1, "bobby": 3, "lal": 75, "ahamdulla": 2, "kaka": 0, "dhadkan": 0, "jeus": 2, "lord": 3, "img": 2, "aashna": 1, "kc": -1, "aliza": 1}
